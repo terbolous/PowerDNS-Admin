@@ -54,3 +54,7 @@ table td {
 .search-input {
     width: 100%;
 }
+
+.skin-blue .main-header .navbar {
+    background-color: #172727;
+}
